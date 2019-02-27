@@ -1,0 +1,51 @@
+Accuracy is:  6.4
+
+
+Boston,_MA
+[('boston', 770), ('ma', 445), ('job', 382), ('hiring', 303), ('careerarc', 144)]
+
+
+San_Diego,_CA
+[('ca', 501), ('san', 370), ('sandiego', 367), ('job', 360), ('diego', 346)]
+
+
+Houston,_TX
+[('houston', 1316), ('tx', 969), ('job', 764), ('hiring', 588), ('jobs', 307)]
+
+
+Philadelphia,_PA
+[('philadelphia', 583), ('pa', 373), ('job', 187), ('hiring', 146), ('__', 109)]
+
+
+Orlando,_FL
+[('orlpol', 514), ('orlando', 498), ('opd', 445), ('fl', 267), ('job', 217)]
+
+
+Washington,_DC
+[('washington', 601), ('dc', 564), ('job', 270), ('hiring', 223), ('careerarc', 125)]
+
+
+Atlanta,_GA
+[('atlanta', 732), ('ga', 424), ('job', 328), ('hiring', 275), ('__', 161)]
+
+
+Chicago,_IL
+[('chicago', 1650), ('il', 928), ('job', 519), ('hiring', 431), ('jobs', 226)]
+
+
+Toronto,_Ontario
+[('toronto', 680), ('job', 210), ('hiring', 163), ('ontario', 145), ('__', 130)]
+
+
+San_Francisco,_CA
+[('ca', 559), ('san', 502), ('sanfrancisco', 468), ('francisco', 452), ('job', 423)]
+
+
+Los_Angeles,_CA
+[('ca', 1006), ('los', 810), ('job', 795), ('angeles', 734), ('hiring', 632)]
+
+
+Manhattan,_NY
+[('new', 1892), ('york', 1675), ('ny', 1287), ('nyc', 806), ('__', 597)]
+
+

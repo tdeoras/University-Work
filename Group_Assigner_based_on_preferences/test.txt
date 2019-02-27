@@ -1,0 +1,4 @@
+tejas 3 gotzi,alak roja
+gotzi 3 tejas,alak roja
+alak 3 tejas,gotzi roja
+roja 0 _ _
